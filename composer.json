@@ -1,7 +1,7 @@
 {
     "name": "apexxpayment/payment",
     "description": "Apexx  custom payment method in Magento 2",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "metapackage",
     "require": {
 	"apexxpayment/base": "1.0.1",
