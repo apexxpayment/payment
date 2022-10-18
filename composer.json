@@ -1,7 +1,7 @@
 {
     "name": "apexxglobal/payment",
     "description": "Apexx  custom payment method in Magento 2",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "type": "metapackage",
     "require": {
     "apexxpayment/base": "1.0.7",
@@ -12,7 +12,7 @@
         "apexxpayment/googlepay": "1.0.7",
         "apexxpayment/hostedpayment": "1.0.7",
         "apexxpayment/paypalpayment": "1.0.7",
-        "apexxpayment/bnpl": "1.0.1"
+        "apexxpayment/bnpl": "1.0.2"
         },
     "license": [
         "OSL-3.0",
